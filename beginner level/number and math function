@@ -1,0 +1,16 @@
+a=2
+b=3
+c=4
+d=5
+e=1
+f=8
+g=6
+h=9
+i=4
+j=7
+x=a+b
+y=c*a
+z=f/b
+print(x)
+print(y)
+print(z)
