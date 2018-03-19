@@ -1,0 +1,2 @@
+x="programmer"
+print(len(x))
