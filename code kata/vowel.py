@@ -1,8 +1,8 @@
-x=["a","b","c","d","e","A","B","C","D","E"]
-y=raw_input("")
+p=["a","b","c","d","e","A","B","C","D","E"]
+q=raw_input("")
 print(y)
 
-if (y in x):
+if (q in p):
     print (" Vowel")
 
 else:
